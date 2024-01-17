@@ -1,0 +1,42 @@
+# Colors (Itten Dark)
+colors:
+  # Metadata
+  name: 'Itten Dark'
+  author: 'grabpot'
+
+  # Default colors
+  primary:
+    background: '0x252d32'
+    foreground: '0xecf0f3'
+
+  # Cursor colors
+  cursor:
+    text: '0x333c45'
+    cursor: '0xecf0f3'
+
+  # Selection colors
+  selection:
+    text: '0xecf0f3'
+    cursor: '0x333c45'
+
+  # Normal colors
+  normal:
+    black:      '0x1b2324'
+    red:        '0xea5242'
+    green:      '0x9bc43e'
+    yellow:     '0xf79b3f'
+    blue:       '0x657ae0'
+    magenta:    '0xdb4ca5'
+    cyan:       '0x3e94be'
+    white:      '0xcad6de'
+
+  # Bright colors
+  bright:
+    black:      '0x5d6d77'
+    red:        '0xeb685c'
+    green:      '0xa3d042'
+    yellow:     '0xf8a666'
+    blue:       '0x7688e5'
+    magenta:    '0xe560b1'
+    cyan:       '0x44a2d0'
+    white:      '0xecf0f3'

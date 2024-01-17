@@ -1,0 +1,33 @@
+[metadata]
+author = 'grabpot'
+name = 'Itten Dark'
+
+[colors]
+ansi = [
+    '#1b2324',
+    '#ea5242',
+    '#9bc43e',
+    '#f79b3f',
+    '#657ae0',
+    '#db4ca5',
+    '#3e94be',
+    '#cad6de',
+]
+brights = [
+    '#5d6d77',
+    '#eb685c',
+    '#a3d042',
+    '#f8a666',
+    '#7688e5',
+    '#e560b1',
+    '#44a2d0',
+    '#ecf0f3',
+]
+foreground = '#ecf0f3'
+background = '#252d32'
+cursor_bg = '#ecf0f3'
+cursor_border = '#ecf0f3'
+cursor_fg = '#333c45'
+selection_bg = '#333c45'
+selection_fg = '#ecf0f3'
+
